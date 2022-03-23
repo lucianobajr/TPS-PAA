@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "enemies.h": "c",
+        "string.h": "c"
+    }
+}

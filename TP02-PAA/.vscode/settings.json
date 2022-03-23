@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "subproblems.h": "c",
+        "string.h": "c",
+        "samus.h": "c",
+        "type_traits": "c"
+    }
+}
