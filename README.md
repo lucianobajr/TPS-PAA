@@ -23,7 +23,7 @@ Projetar um algoritmo com backtracking para encontrar um caminho possível.
 ## TP2
 Implementar, utilizando programação dinâmica, um algoritmo capaz de escolher um caminho que permita que o personagem saia das cavernas em segurança no menor tempo possível.
 
-| Caso de Teste | Resolução |
+| Caso de Teste | Resolução
 |-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------
 |![caso-teste](https://user-images.githubusercontent.com/45442173/159604764-559b6b60-3253-417f-a2fe-82d2130f4612.png)|
 |![resolucao](https://user-images.githubusercontent.com/45442173/159604769-08c46cad-58ce-48ea-94d4-6611a99fe1d4.png)
